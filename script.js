@@ -17,7 +17,7 @@ $(document).ready(function () {
 // Function to fetch a recommendation from OpenAI's API
 function fetchRecommendation(style) {
   // Your securely stored OpenAI API key
-  const OPENAI_API_KEY = "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";
+  const OPENAI_API_KEY = "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";
 
   // Messages array for the conversation
   var messages = [
